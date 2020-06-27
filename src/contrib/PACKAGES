@@ -5,3 +5,8 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: testingdratdata
+Version: 0.1.0
+License: CC0
+MD5sum: 90366bf8dc830091843f3b2cefd26702
+NeedsCompilation: no
